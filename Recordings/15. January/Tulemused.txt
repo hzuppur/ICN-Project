@@ -1,0 +1,99 @@
+TÕDE/VALE
+V
+V
+V
+T
+V
+T
+V
+V
+T
+V
+V
+T
+V
+T
+T
+T
+T
+V
+T
+V
+T
+T
+V
+V
+T
+T
+V
+T
+T
+V
+T
+V
+V
+T
+T
+V
+T
+T
+T
+V
+V
+T
+T
+T
+V
+V
+V
+T
+
+==========
+TÕDE/VALE  JAH/EI
+T 	E
+T	J
+T	J
+T	E
+T	E
+V	E
+V	J
+T	E
+V	E
+T	J
+T	J
+V	E
+V	E
+T	E
+T	J
+V	E
+T	J
+V	E
+T	E
+T	E
+V	J
+V	E
+T	J
+V	E
+T	E
+T	E
+V	J
+V	J
+T	E
+T	J
+V	E
+T	E
+V	J
+T	E
+V	E
+T	J
+T	J
+V	E
+V	E
+T	J
+T	E
+T	E
+T	J
+V	J
+V	E
+T	E
+T	E
